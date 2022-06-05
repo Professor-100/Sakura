@@ -4,20 +4,20 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Unni0240>Amal Nath</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/PR0FESS0R_MASTER_2>PR0FESS0R_MASTER_2</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴: <a href=https://github.com/Masterrockiei/source>𝙷𝙴𝚁𝙴</a>
+✯ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴: <a href=https://github.com/Professor-100/Sakura>𝙷𝙴𝚁𝙴</a>
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Sakura is not a open source project. 
+- Sakura is aopen source project. 
 - but i will give my movie group link join and enjoy
-✯ 🎬 𝑴𝒐𝒗𝒊𝒆 𝒈𝒓𝒐𝒖𝒑:<a href=https://t.me/cinima_lokham>𝒄𝒊𝒏𝒊𝒎𝒂 𝒍𝒐𝒌𝒉𝒂𝒎</a>
+✯ 🎬 𝑴𝒐𝒗𝒊𝒆 𝒈𝒓𝒐𝒖𝒑:<a href=https://t.me/Request_Movies_123>𝑅𝑒𝑞𝑢𝑒𝑠𝑡_𝑀𝑜𝑣𝑖𝑒𝑠_123</a>
 
 <b>DEVS:</b>
-- <a href=https://t.me/Unni0240>Amal Nath</a>"""
+- <a href=https://t.me/PR0FESS0R_MASTER_2>PR0FESS0R_MASTER_2</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Sakura will respond whenever a keyword is found the message
